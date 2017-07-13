@@ -1,4 +1,4 @@
-h1 {
+h3 {
 	font-family: 'Montserrat', Arial, Sans-serif;
     color: grey;
 
@@ -8,8 +8,16 @@ p {
 	font-family: 'Raleway', Arial, Sans-serif;
 }
 
-.info {
+.intro {
     margin: 0 auto;
+    padding: 12px;
+    background-color: white;
+    width: 96%;
+}
+
+.data {
+	font-family: 'Raleway', Arial, Sans-serif;
+	margin: 0 auto;
     padding: 12px;
     background-color: white;
     width: 96%;
